@@ -1,5 +1,7 @@
 ### Hello, I'm Raiyan 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaiyanYahyaDev&label=Views&color=blue&style=plastic" alt="RaiyanYahyaDev" /> </p>
+
 - 🔭 I’m currently working on a secret project :closed_lock_with_key: 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on anythig cool and minimal
