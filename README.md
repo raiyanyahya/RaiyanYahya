@@ -1,8 +1,9 @@
-### Hello, I'm Raiyan 👋
+### Hello, I'm Raiyan [![Linkedin: raiyan-yahya-b6ab7979](https://img.shields.io/badge/-RaiyanYahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)](https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaiyanYahyaDev&label=Views&color=blue&style=plastic" alt="RaiyanYahyaDev" /> </p>
 
-[![Linkedin: raiyan-yahya-b6ab7979](https://img.shields.io/badge/-RaiyanYahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)](https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)
 
 - 🔭 I’m currently working on a secret project :closed_lock_with_key: 
 - 🌱 I’m currently learning Go
