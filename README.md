@@ -9,7 +9,7 @@
 - 💬 Ask me about Python, AWS and backend stuff
 - 📫 How to reach me: raiyanyahyadeveloper@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can eat a lot!!
+- ⚡ Work: 8+ years of experience in product development, working on building servers, apis, clis, infrastructure, automation and machine learning services.
 
 [![Linkedin: raiyan-yahya-b6ab7979](https://img.shields.io/badge/-RaiyanYahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)](https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)
 
