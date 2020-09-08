@@ -1,6 +1,7 @@
 ### Hello, I'm Raiyan 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaiyanYahyaDev&label=Views&color=blue&style=plastic" alt="RaiyanYahyaDev" /> </p>
+[![Linkedin: raiyan-yahya-b6ab7979](https://img.shields.io/badge/-RaiyanYahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)](https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)
 
 - 🔭 I’m currently working on a secret project :closed_lock_with_key: 
 - 🌱 I’m currently learning Go
@@ -9,9 +10,7 @@
 - 💬 Ask me about Python, AWS and backend stuff
 - 📫 How to reach me: raiyanyahyadeveloper@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Work: 8+ years of experience in product development, working on building servers, apis, clis, infrastructure, automation and machine learning services.
-
-[![Linkedin: raiyan-yahya-b6ab7979](https://img.shields.io/badge/-RaiyanYahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)](https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)
+- ⚡ Work: 8+ years in product development, working on building servers, apis, clis, infrastructure, automation and machine learning services.
 
 <img src="https://github-readme-stats.vercel.app/api?username=RaiyanYahyaDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
