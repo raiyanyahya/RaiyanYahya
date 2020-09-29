@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help in starting a company
 - 💬 Ask me about Python, AWS and backend stuff
 - 📫 How to reach me: raiyanyahyadeveloper@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Work: 8+ years in product development, working on building servers, apis, clis, infrastructure, automation and machine learning services.
 
 <img src="https://github-readme-stats.vercel.app/api?username=RaiyanYahyaDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
