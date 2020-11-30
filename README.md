@@ -1,4 +1,4 @@
-### Hello, I'm Raiyan [![Linkedin: raiyan-yahya-b6ab7979](https://img.shields.io/badge/-RaiyanYahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)](https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)
+### Hello, I'm Raiyan [![Linkedin: raiyan-yahya-b6ab7979](https://img.shields.io/badge/-RaiyanYahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)](https://https://www.linkedin.com/in/raiyan-yahya-b6ab7979/)
 
 
 
