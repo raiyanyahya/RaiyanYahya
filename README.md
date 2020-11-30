@@ -13,7 +13,6 @@
 - 📫 How to reach me: raiyanyahyadeveloper@gmail.com
 - ⚡ Work: 8+ years in product development, working on building servers, apis, clis, infrastructure, automation and machine learning services.
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaiyanYahyaDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 **Languages and Tools:**
 
@@ -26,9 +25,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiyanYahyaDev&theme=light&hide_langs_below=1" />
-</a>
 
 <div align="center">
 Show some ❤️ by starring some of the repositories!
