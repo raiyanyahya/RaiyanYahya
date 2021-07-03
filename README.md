@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently working on a secret project :closed_lock_with_key: 
-- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on anythig cool and minimal
 - 🤔 I’m looking for help in starting a company
 - 💬 Ask me about Python, AWS and backend stuff
