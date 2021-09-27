@@ -5,10 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaiyanYahyaDev&label=Views&color=blue&style=plastic" alt="RaiyanYahyaDev" /> </p>
 
 
-- 🔭 I’m currently working on a secret project :closed_lock_with_key: 
-- 👯 I’m looking to collaborate on anythig cool and minimal
-- 🤔 I’m looking for help in starting a company
-- 💬 Ask me about Python, AWS and backend stuff
+- 👯 I’m looking to collaborate on anythig cool and minimal.
+- 💬 Ask me about Python, AWS and backend stuff.
 - 📫 How to reach me: raiyanyahyadeveloper@gmail.com
 - ⚡ Work: 8+ years in product development, working on building servers, apis, clis, infrastructure, automation and machine learning services.
 
