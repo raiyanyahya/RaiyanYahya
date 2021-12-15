@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyanyahya&label=Profile%20views&color=0e75b6&style=flat" alt="raiyanyahya" /> </p>
 
 
-- 🔭 I’m currently working on **a secret project.**
-
 - 👯 I’m looking to collaborate on **anything cool and minimal.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raiyanyahya](https://github.com/raiyanyahya)
