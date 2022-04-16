@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raiyan Yahya</h1>
-<p align="left">I am very passionate about building products and trying out new things. I have around 9 years of experience into IT consulting and product development, working across domains such as Telecom, Supply Chain, Ecommerce, Advertising and Automotive. Experience in building, architecting, designing, and implementing distributed global cloud-based systems. Lots of production experience with AWS and a certified solution architect. I also train and give live lectures online on various technical education platforms like Edureka.com.</p>
+<p align="left">I am very passionate about building products and trying out new things. I have around 10 years of experience into IT consulting and product development, working across domains such as Telecom, Supply Chain, Ecommerce, Advertising and Automotive. Experience in building, architecting, designing, and implementing distributed global cloud-based systems. Lots of production experience with AWS and a certified solution architect. I also train and give live lectures online on various technical education platforms like Edureka.com.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyanyahya&label=Profile%20views&color=0e75b6&style=flat" alt="raiyanyahya" /> </p>
 
