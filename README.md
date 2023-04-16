@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **AWS, Docker, Python, CI CD, GithubOps, APIs and Backend Engineering.**
 
+- 🗞 I also publish a newsletter which brings you great findings from across the internet. Subscribe to it https://kuration.substack.com .
+
 - 📫 How to reach me **raiyanyahyadeveloper@gmail.com**
 
 
