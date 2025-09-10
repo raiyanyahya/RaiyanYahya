@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raiyan Yahya</h1>
-<p align="left">I am very passionate about building products and trying out new things. I have around 10 years of experience into IT consulting and product development, working across domains such as Telecom, Supply Chain, Ecommerce, Advertising and Automotive. Experience in building, architecting, designing, and implementing distributed global cloud-based systems. Lots of production experience with AWS and a certified solution architect. I also train and give live lectures online on various technical education platforms like Edureka.com.</p>
+<p align="left">I am very passionate about building products and trying out new things. Principal Backend Architect with 13+ years of experience designing scalable, secure, and high-performance backend systems. Specialized in Python, Go, Node.js, and Java for building microservices, distributed architectures, and real-time data processing platforms.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyanyahya&label=Profile%20views&color=0e75b6&style=flat" alt="raiyanyahya" /> </p>
 
@@ -9,8 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/raiyanyahya](https://github.com/raiyanyahya)
 
 - 💬 Ask me about **AWS, Docker, Python, CI CD, GithubOps, APIs and Backend Engineering.**
-
-- 🗞 I also publish a newsletter which brings you great findings from across the internet. Subscribe to it https://kuration.substack.com .
 
 - 📫 How to reach me **raiyanyahyadeveloper@gmail.com**
 
